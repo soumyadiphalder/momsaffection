@@ -22,6 +22,7 @@ Others Update
 4. Mobile No. is Required When Customer place order.
 5. In Shop in Product show sell icon which is sell.
 6. In Shop in Product show out of stock icon when stock finish.
+7. Show GST no. In Bill (both admin & customar).
 
 Error
 1. In cart bar Product image is not Showing.
